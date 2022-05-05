@@ -1,0 +1,2 @@
+# JavaClassTestProjects
+For Testing uses
